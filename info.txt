@@ -1,0 +1,1 @@
+This is just a test project to check the features of git, ansible and ubuntu
